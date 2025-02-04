@@ -1,32 +1,21 @@
-👨💻 I'm currently working on...
-Building REST APIs with Node.js/Express, automating deployment pipelines with Jenkins, and containerizing everything that moves using Docker. (RIP to my laptop's RAM 💀)
+# 💫 About Me:
+👨💻 I'm currently working on...<br>Building REST APIs with Node.js/Express, automating deployment pipelines with Jenkins, and containerizing everything that moves using Docker. (RIP to my laptop's RAM 💀)<br><br>🤝 I'm looking to collaborate on...<br>Open-source DevOps tools, backend microservices projects, or cloud infrastructure experiments. Extra hype if it involves AWS/GCP or chaotic-yet-educational CI/CD configurations.<br><br>🆘 I'm looking for help with...<br>Leveling up my Kubernetes game, Terraform best practices, and understanding why my containers sometimes ghost me. Also open to war stories about debugging prod issues!<br><br>📚 I'm currently learning...<br>• Cloud architecture patterns (the "how to not get a $5k AWS bill" edition)<br>• Scaling backend services without crying<br>• Writing YAML files that don’t look like alphabet soup<br><br>💬 Ask me about...<br>• My love/hate relationship with Bash scripting<br>• That time I accidentally DDOSed myself during load testing<br>• Why Jenkins pipelines feel like herding cats<br>• My quest to find the perfect terminal color scheme<br><br>🎉 Fun fact<br>I once tried to "optimize" a server by deleting log files... and learned about logrotate the hard way 😅<br><br>🚀 2024 Goal<br>Deploy a personal project using full infra-as-code (Terraform + Docker + Cloud) without any "oh $#!%" rollbacks.<br><br>Let’s nerd out about:<br>🐳 Docker | ☁️ Cloud Engineering | 🔄 CI/CD Pipelines | 🤖 Automation<br><br>Connect with me:<br> [https://github.com/DShiva0] | [https://x.com/DShiva0] | [u/DShiva0]<br>
 
-🤝 I'm looking to collaborate on...
-Open-source DevOps tools, backend microservices projects, or cloud infrastructure experiments. Extra hype if it involves AWS/GCP or chaotic-yet-educational CI/CD configurations.
 
-🆘 I'm looking for help with...
-Leveling up my Kubernetes game, Terraform best practices, and understanding why my containers sometimes ghost me. Also open to war stories about debugging prod issues!
+## 🌐 Socials:
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/DShiva0) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@DShiva0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divineshiva0@gmail.com) 
 
-📚 I'm currently learning...
-• Cloud architecture patterns (the "how to not get a $5k AWS bill" edition)
-• Scaling backend services without crying
-• Writing YAML files that don’t look like alphabet soup
+# 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DShiva0&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DShiva0&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DShiva0&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-💬 Ask me about...
-• My love/hate relationship with Bash scripting
-• That time I accidentally DDOSed myself during load testing
-• Why Jenkins pipelines feel like herding cats
-• My quest to find the perfect terminal color scheme
+---
+[![](https://visitcount.itsvg.in/api?id=DShiva0&icon=2&color=12)](https://visitcount.itsvg.in)
 
-🎉 Fun fact
-I once tried to "optimize" a server by deleting log files... and learned about logrotate the hard way 😅
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dshiva0) 
 
-🚀 2024 Goal
-Deploy a personal project using full infra-as-code (Terraform + Docker + Cloud) without any "oh $#!%" rollbacks.
-
-Let’s nerd out about:
-🐳 Docker | ☁️ Cloud Engineering | 🔄 CI/CD Pipelines | 🤖 Automation
-
-Connect with me:
-[https://github.com/DShiva0] | [https://x.com/DShiva0] | [u/DShiva0]
-
+  
